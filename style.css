@@ -138,3 +138,13 @@ button {
   color: #3882F6;
   background-color: white;
 }
+footer {
+  padding: 24px 48px;
+  background-color: #1F2937;
+  text-align: center;
+}
+
+footer p {
+  margin: 0;
+  color: #E5E7EB;
+}
