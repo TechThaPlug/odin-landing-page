@@ -95,3 +95,23 @@ button {
 .card p {
   color: #4B5563;
 }
+.quote {
+  padding: 64px 48px;
+  background-color: #E5E7EB;
+  text-align: center;
+}
+
+.quote-text {
+  margin: 0 0 16px;
+  font-size: 36px;
+  font-weight: 300;
+  font-style: italic;
+  color: #1F2937;
+}
+
+.author {
+  margin: 0;
+  font-size: 18px;
+  font-weight: bold;
+  color: #1F2937;
+}
